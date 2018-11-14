@@ -2,7 +2,7 @@ abstract class Employe{
 	private String prenom,nom;
 	
 	public Employe(String prenom, String nom, int test);
-	
+	/// ALALALALA
 	public abstract void calculerSalaire();
 	
 	public String getNom() {return "L'employé "+prenom +" "+nom;}
